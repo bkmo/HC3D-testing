@@ -3,5 +3,12 @@
     <item name="drawable/appwidget_facebook_icon_default">@drawable/com_facebook_katana_appwidget_facebook_icon_default</item>
     <item name="drawable/appwidget_facebook_icon_pressed">@drawable/com_facebook_katana_appwidget_facebook_icon_pressed</item>
     <item name="drawable/appwidget_facebook_icon_selected">@drawable/com_facebook_katana_appwidget_facebook_icon_selected</item>
-    <item name="drawable/appwidget_top_white">@drawable/com_android_providers_calendar_appwidget_calendar_bgtop_blue</item>
+    <item name="drawable/appwidget_top_white">@drawable/com_facebook_katana_appwidget_top_white</item>
+    <item name="drawable/global_top_background">@drawable/com_facebook_katana_global_top_background</item>
+    <item name="drawable/appwidget_bg_press">@drawable/com_facebook_katana_appwidget_bg_press</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/com_facebook_katana_appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg">@drawable/com_facebook_katana_appwidget_bg</item>
+
+
+
 </resource-redirections>

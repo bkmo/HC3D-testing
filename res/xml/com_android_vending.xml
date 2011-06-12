@@ -21,6 +21,9 @@
     <item name="drawable/ic_vm_thumbnail_promo">@drawable/market_ic_vm_thumbnail_promo</item>
     <item name="drawable/promo_frame_pressed">@drawable/market_promo_frame_pressed</item>
     <item name="drawable/promo_frame_selected">@drawable/market_promo_frame_selected</item>
+    <item name="drawable/appwidget_bg_focus">@drawable/market_appwidget_bg_focus</item>
+    <item name="drawable/appwidget_bg">@drawable/market_appwidget_bg</item>
+    <item name="drawable/appwidget_bg_press">@drawable/market_appwidget_bg_press</item>
     <item name="drawable/bottombar_portrait_565">@drawable/com_android_vending_bottombar_portrait_565</item>
     <item name="drawable/details_header_gradient">@drawable/com_android_vending_details_header_gradient</item>
     <item name="drawable/promo_frame_left_normal">@drawable/com_android_vending_promo_frame_left_normal</item>
