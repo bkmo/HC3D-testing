@@ -3,6 +3,7 @@
     <item name="drawable/badge_action_call">@drawable/com_android_contacts_badge_action_call</item>
     <item name="drawable/badge_action_sms">@drawable/com_android_contacts_badge_action_sms</item>
     <item name="drawable/sym_action_sms">@drawable/com_android_mms_stat_notify_mms</item>
+    <item name="drawable/sym_contact_card">@drawable/frameworks_res_sym_contact_card</item>
     <item name="drawable/btn_dial_action_left_disable">@drawable/com_android_contacts_btn_dial_action_left_disable</item>
     <item name="drawable/btn_dial_action_left_normal">@drawable/com_android_contacts_btn_dial_action_left_normal</item>
     <item name="drawable/btn_dial_action_middle_disable">@drawable/com_android_contacts_btn_dial_action_middle_disable</item>
@@ -132,5 +133,6 @@
     <item name="drawable/quickcontact_slider_presence_busy">@drawable/com_android_contacts_quickcontact_slider_presence_busy</item>
     <item name="drawable/quickcontact_slider_presence_inactive">@drawable/com_android_contacts_quickcontact_slider_presence_inactive</item>
     <item name="drawable/quickcontact_top_frame">@drawable/com_android_contacts_quickcontact_top_frame</item>
+    <item name="drawable/call_background">@drawable/call_background</item>
     <item name="style/DialtactsTheme">@style/DialtactsTheme</item>
 </resource-redirections>

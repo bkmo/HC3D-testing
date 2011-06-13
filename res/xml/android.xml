@@ -310,7 +310,7 @@
     <item name="drawable/stat_notify_sdcard_usb">@drawable/frameworks_res_stat_notify_sdcard_usb</item>
     <item name="drawable/stat_notify_sim_toolkit">@drawable/frameworks_res_stat_notify_sim_toolkit</item>
     <item name="drawable/stat_notify_sync">@drawable/frameworks_res_stat_notify_sync</item>
-    <item name="drawable/stat_notify_sync_anim0">@drawable/frameworks_res_stat_notify_sync_anim0</item>
+    <item name="drawable/stat_notify_sync_anim0">@drawable/sync_anim</item>
     <item name="drawable/stat_notify_sync_error">@drawable/frameworks_res_stat_notify_sync_error</item>
     <item name="drawable/stat_notify_voicemail">@drawable/frameworks_res_stat_notify_voicemail</item>
     <item name="drawable/stat_notify_wifi_in_range">@drawable/frameworks_res_stat_notify_wifi_in_range</item>
@@ -320,14 +320,15 @@
     <item name="drawable/stat_sys_upload_anim3">@drawable/frameworks_res_stat_sys_upload_anim3</item>
     <item name="drawable/stat_sys_upload_anim2">@drawable/frameworks_res_stat_sys_upload_anim2</item>
     <item name="drawable/stat_sys_upload_anim1">@drawable/frameworks_res_stat_sys_upload_anim1</item>
+    <item name="drawable/stat_sys_upload_anim0">@drawable/frameworks_res_stat_sys_upload_anim0</item>
     <item name="drawable/stat_sys_download_anim5">@drawable/frameworks_res_stat_sys_download_anim5</item>
     <item name="drawable/stat_sys_download_anim4">@drawable/frameworks_res_stat_sys_download_anim4</item>
     <item name="drawable/stat_sys_download_anim3">@drawable/frameworks_res_stat_sys_download_anim3</item>
     <item name="drawable/stat_sys_download_anim2">@drawable/frameworks_res_stat_sys_download_anim2</item>
     <item name="drawable/stat_sys_download_anim1">@drawable/frameworks_res_stat_sys_download_anim1</item>
+    <item name="drawable/stat_sys_download_anim0">@drawable/frameworks_res_stat_sys_download_anim0</item>
     <item name="drawable/stat_sys_data_bluetooth">@drawable/frameworks_res_stat_sys_data_bluetooth</item>
     <item name="drawable/stat_sys_data_usb">@drawable/frameworks_res_stat_sys_data_usb</item>
-    <item name="drawable/stat_sys_download_anim0">@drawable/frameworks_res_stat_sys_download_anim0</item>
     <item name="drawable/stat_sys_gps_on">@drawable/frameworks_res_stat_sys_gps_on</item>
     <item name="drawable/stat_sys_headset">@drawable/frameworks_res_stat_sys_headset</item>
     <item name="drawable/stat_sys_phone_call">@drawable/frameworks_res_stat_sys_phone_call</item>
@@ -340,10 +341,10 @@
     <item name="drawable/stat_sys_tether_usb">@drawable/frameworks_res_stat_sys_tether_usb</item>
     <item name="drawable/stat_sys_tether_wifi">@drawable/frameworks_res_stat_sys_tether_wifi</item>
     <item name="drawable/stat_sys_throttled">@drawable/frameworks_res_stat_sys_throttled</item>
-    <item name="drawable/stat_sys_upload_anim0">@drawable/frameworks_res_stat_sys_upload_anim0</item>
     <item name="drawable/stat_sys_vp_phone_call">@drawable/frameworks_res_stat_sys_vp_phone_call</item>
     <item name="drawable/stat_sys_vp_phone_call_on_hold">@drawable/frameworks_res_stat_sys_vp_phone_call_on_hold</item>
     <item name="drawable/stat_sys_warning">@drawable/frameworks_res_stat_sys_warning</item>
+    <item name="drawable/sym_contact_card">@drawable/frameworks_res_sym_contact_card</item>
     <item name="drawable/status_bar_header_background">@drawable/frameworks_res_status_bar_header_background</item>
     <item name="drawable/status_bar_item_app_background_normal">@drawable/frameworks_res_status_bar_item_app_background_normal</item>
     <item name="drawable/status_bar_item_background_normal">@drawable/frameworks_res_status_bar_item_background_normal</item>
