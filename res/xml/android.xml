@@ -443,6 +443,7 @@
     <item name="drawable/submenu_arrow_nofocus">@drawable/frameworks_res_submenu_arrow_nofocus</item>
     <item name="drawable/sym_app_on_sd_unavailable_icon">@drawable/frameworks_res_sym_app_on_sd_unavailable_icon</item>
     <item name="drawable/sym_def_app_icon">@drawable/frameworks_res_sym_def_app_icon</item>
+    <item name="drawable/sym_action_email">@drawable/frameworks_res_sym_action_email</item>
     <item name="drawable/sym_action_call">@drawable/com_android_contacts_badge_action_call</item>
     <item name="drawable/tab_selected">@drawable/frameworks_res_tab_selected</item>
     <item name="drawable/tab_selected_bar_left">@drawable/frameworks_res_tab_selected_bar_left</item>
