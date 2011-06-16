@@ -76,5 +76,4 @@
     <item name="drawable/ic_tab_unselected_download">@drawable/com_android_settings_ic_tab_unselected_download</item>
     <item name="drawable/ic_tab_unselected_running">@drawable/com_android_settings_ic_tab_unselected_running</item>
     <item name="drawable/ic_tab_unselected_sdcard">@drawable/com_android_settings_ic_tab_unselected_sdcard</item>
-    <item name="style/DialtactsTheme">@style/DialtactsTheme</item>
     </resource-redirections>
