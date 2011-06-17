@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest android:hasCode="false" android:versionCode="2" android:versionName="2.4.5" package="com.mike.theme.hc3dtest1"
+<manifest android:hasCode="false" android:versionCode="2" android:versionName="2.4.5" package="com.mike.theme.hc3dtest2"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
     <uses-feature android:name="com.tmobile.software.themes" />
     <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
@@ -7,8 +7,8 @@
      
    <theme
  
-   pluto:themeId="Honeycomb3Dtest1"
-   pluto:styleId="@style/Honeycomb3Dtest1"
+   pluto:themeId="Honeycomb3Dtest2"
+   pluto:styleId="@style/Honeycomb3Dtest2"
    pluto:name="@string/theme_name"
    pluto:preview="@drawable/preview"
    pluto:author="@string/author"

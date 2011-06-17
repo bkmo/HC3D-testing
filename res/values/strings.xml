@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="app_name">Honeycomb 3D-3Dtest1</string>
-    <string name="theme_name">Honeycomb 3D-3Dtest1</string>
-    <string name="style_appearance_name">Honeycomb3Dtest1</string>
+    <string name="app_name">Honeycomb 3D-3Dtest2</string>
+    <string name="theme_name">Honeycomb 3D-3Dtest2</string>
+    <string name="style_appearance_name">Honeycomb3Dtest2</string>
     <string name="author">mike</string>
     <string name="copyright">mike</string>
 </resources>
