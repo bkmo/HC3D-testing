@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@drawable/wifi_tether_icon</item>
+    <item name="drawable/tether_wifi_on">@drawable/wifi_tether_tether_wifi_on</item>
+    <item name="drawable/stop">@drawable/wifi_tether_stop</item>
+    <item name="drawable/start_notification">@drawable/wifi_tether_start_notification</item>
+
+ </resource-redirections>

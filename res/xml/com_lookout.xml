@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource-redirections>
+    <item name="drawable/logo_box_72x72">@drawable/lookout_logo_box_72x72</item>
+    <item name="drawable/logo_box_transborder_25x25">@drawable/lookout_logo_box_transborder_25x25</item>
+    <item name="drawable/logo_box_transborder_38x38">@drawable/lookout_logo_box_transborder_38x38</item>
+</resource-redirections>
