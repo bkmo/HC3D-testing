@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest android:hasCode="false" android:versionCode="2" android:versionName="2.4.5" package="com.mike.theme.hc3dtest2"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
-    <uses-feature android:name="com.tmobile.software.themes" />
-    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
-    <application android:label="@string/app_name" android:icon="@drawable/icon" android:hasCode="false" />
+<manifest 
+
+package="com.mike.theme.hc3dtest2"
+
+android:versionCode="3" 
+android:versionName="2.5.2" 
+android:installLocation="internalOnly"
+
+xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    
+<uses-sdk android:minSdkVersion="9" android:targetSdkVersion="9" />
+
+<application android:label="@string/app_name" android:icon="@drawable/icon" android:hasCode="false" />
      
-   <theme
+<theme
  
    pluto:themeId="Honeycomb3Dtest2"
    pluto:styleId="@style/Honeycomb3Dtest2"
@@ -13,7 +21,7 @@
    pluto:preview="@drawable/preview"
    pluto:author="@string/author"
    pluto:copyright="@string/copyright"
-   pluto:wallpaperImage="@drawable/wallpaper"
    pluto:styleName="@string/style_appearance_name" />
 
- </manifest>
+</manifest>
+
